@@ -1,2 +1,2 @@
 # Digital-Clock
-[Link to website](https://mohdadil2k.github.io/digital_clock/)
+[Link To The Website](https://mohdadil2k.github.io/digital_clock/)
